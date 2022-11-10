@@ -6,8 +6,11 @@ by SJZHZ
 ```
 ## 文件说明
 ```txt
-HW1
+HW1:
+    assignment 1.1
+    assignmemt 1.2
 HW2
+    assignment 2
 HW3
-HW4
+
 ```
