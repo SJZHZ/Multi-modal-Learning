@@ -11,6 +11,7 @@ HW1:
     assignmemt 1.2
 HW2
     assignment 2
+    （注意：在本地无法访问到Google的资源，需要在Colab上做）
 HW3
 
 ```
