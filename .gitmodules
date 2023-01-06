@@ -1,0 +1,3 @@
+[submodule "obj-centric-unsup-caption"]
+	path = obj-centric-unsup-caption
+	url = git@github.com:zihangm/obj-centric-unsup-caption.git
